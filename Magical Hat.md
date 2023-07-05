@@ -30,3 +30,8 @@
 [1](https://placewit.medium.com/hats-and-genie-puzzle-3655bb88de14),[2](https://puzzlefry.com/puzzles/genie-with-c-hats-and-n-men-puzzle/) [3](https://puzzlersworld.com/interview-puzzles/genie-c-hats/) [4](https://codedestine.com/genie-with-c-hats-puzzle/)
 
 几年前看到过的`逻辑和博弈`相关的课程里提到过这个，当时的ppt附有大量的图，还有用逻辑语言来根据部分信息构造全局信息的过程，可惜当时整理材料的意识不强，忘了叫做什么，现在也搜不到了。
+
+### 扩展阅读:   
+还是关于帽子的问题，不过要求的是`小组中有人做出猜测，并且每个做出猜测的人都猜对了`,问的是策略。  
+[Hamming 码解决帽子问题 ](https://zhiqiang.org/math/game-one-hat.html)  
+[帽子游戏二 ](https://zhiqiang.org/math/game-two-hats.html)  
